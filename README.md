@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=false&vCenter=false&width=1000&lines=Hello+Word+👋;My+name+is+Lucas+Padilha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=false&vCenter=false&width=1000&lines=Hello+Word+👋;I'm+Lucas+Padilha)](https://git.io/typing-svg)
 
 - 🇧🇷 Brazilian 
 - 📚 Economist
